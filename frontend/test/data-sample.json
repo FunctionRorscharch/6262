@@ -1,0 +1,46 @@
+data= 
+{
+    "commonNames": [
+        "hola.org"
+    ],
+    "isp": "Amazon.com",
+    "sslGrade": "B",
+    "keyAlg": "RSA",
+    "notBefore": 1483315200000,
+    "url": "hola.org",
+    "ip": "107.22.193.119",
+    "vulns": [],
+    "hostname": [
+        "ec2-107-22-193-119.compute-1.amazonaws.com"
+    ],
+    "notAfter": 1579046399000,
+    "googleSafeBrowsing": {},
+    "sslWarning": false,
+    "issuerInfo": "CN=COMODO RSA Domain Validation Secure Server CA, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB",
+    "statistic": "82,33,85,120,120,137,131,85,33,91,132,129,121,105,69,32",
+    "services": {
+        "Bootstrap": {
+            "categories": [
+                "Web Frameworks"
+            ]
+        },
+        "RequireJS": {
+            "categories": [
+                "JavaScript Frameworks"
+            ]
+        },
+        "Google Font API": {
+            "categories": [
+                "Font Scripts"
+            ]
+        }
+    },
+    "potentialThreats": "phishing site",
+    "organization": "Amazon.com",
+    "country": "United States",
+    "ports": [
+        80,
+        443
+    ],
+    "keyStrength": 2048
+}
